@@ -1,4 +1,4 @@
-# COVID Prognosticator: COVID-19 Onset and Recovery Detection With Wearable Devices   
+# COVID-19 Onset and Recovery Detection With Wearable Devices   
 ## Charlie Carver, Hunter J. Gallant, Viney Regunath, and Ho Man Colman Leung
 
 ### Objective
@@ -22,7 +22,7 @@ This data is separated into three primary sections, with several CSVs for each.
 
 ### Exploratory Analysis
 
-TBD
+{% gist 123456789 %}
 
 ### References
 
