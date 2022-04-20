@@ -12,7 +12,13 @@ Our proposed project related to identifying other features such as sleep duratio
 
 ### Data Description
 
-TBD
+This data is separated into three primary sections, with several CSVs for each.
+
+1. *Heart Rate Variability.* The Welltory Team used Bluetooth-enabled heart rate monitors, or in some instances, a high-resolution smartphone camera, to measure each subject's heart rate.
+
+2. *Data from user-connected gadgets.* this data includes Apple Watch and Garmin, which synchronize with health apps. This can measure number of steps taken, the speed of those steps, calories burned, and a variety of other data inputs. 
+
+3. *Clinically validated physical and mental health assessments.* They have datasets where users would input results from COVID tests and mental health assessments. The text results are standardized within the CSV to simplify analysis.
 
 ### Exploratory Analysis
 
