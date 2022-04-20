@@ -22,7 +22,7 @@ This data is separated into three primary sections, with several CSVs for each.
 
 ### Exploratory Analysis
 
-{% gist 123456789 %}
+Our Google Colab notebook can be [downloaded here](p2.ipynb), and a PDF of our plots can be [downloaded here](p2.pdf). 
 
 ### References
 
