@@ -20,9 +20,13 @@ This data is separated into three primary sections, with several CSVs for each.
 
 3. *Clinically validated physical and mental health assessments.* They have datasets where users would input results from COVID tests and mental health assessments. The text results are standardized within the CSV to simplify analysis.
 
-### Exploratory Analysis
+### P2: Exploratory Analysis
 
 Our Google Colab notebook can be [downloaded here](p2.ipynb), and a PDF of our plots can be [downloaded here](p2.pdf). 
+
+### P4: Initial Results
+
+To view our initial results, please look at our [Google Colab notebook](p4.ipynb) or a [PDF output here](p4.pdf).
 
 ### References
 
