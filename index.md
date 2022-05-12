@@ -28,7 +28,6 @@ Our Google Colab notebook can be [downloaded here](p2.ipynb), and a PDF of our p
 
 To view our initial results, please look at our [Google Colab notebook](p4.ipynb) or a [PDF output here](p4.pdf).
 
-  <iframe src="https://charliecarver.github.io/ds4h/p4.pdf" width="640" height="480"></iframe>
 
 
 ### References
