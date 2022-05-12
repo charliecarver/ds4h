@@ -28,6 +28,9 @@ Our Google Colab notebook can be [downloaded here](p2.ipynb), and a PDF of our p
 
 To view our initial results, please look at our [Google Colab notebook](p4.ipynb) or a [PDF output here](p4.pdf).
 
+  <iframe src="https://charliecarver.github.io/ds4h/p4.pdf" width="640" height="480"></iframe>
+
+
 ### References
 
 [^r1]: Mason, Ashley E., Frederick M. Hecht, Shakti K. Davis, Joseph L. Natale, Wendy Hartogensis, Natalie Damaso, Kajal T. Claypool et al. "Detection of COVID-19 using multimodal data from a wearable device: results from the first TemPredict Study." Scientific reports 12, no. 1 (2022): 1-15.
