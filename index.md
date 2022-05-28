@@ -28,7 +28,7 @@ Our Google Colab notebook can be [downloaded here](p2.ipynb), and a PDF of our p
 
 To view our initial results, please look at our [Google Colab notebook](p4.ipynb) or a [PDF output here](p4.pdf).
 
-### P4: Initial Results
+### P5: Final Paper
 
 To view the final results from [our paper](paper.pdf), please look at our [Google Colab notebook](p5.ipynb) or a [PDF output here](p5.pdf).
 
