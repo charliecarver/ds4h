@@ -30,7 +30,7 @@ To view our initial results, please look at our [Google Colab notebook](p4.ipynb
 
 ### P5: Final Paper
 
-To view the final results from [our paper](paper.pdf), please look at our [Google Colab notebook](p5.ipynb) or a [PDF output here](p5.pdf).
+To view the final results from [our paper](ds4h_project.pdf), please look at our [Google Colab notebook](p5.ipynb) or a [PDF output here](p5.pdf).
 
 ### References
 
